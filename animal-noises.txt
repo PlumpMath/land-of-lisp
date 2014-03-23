@@ -1,0 +1,1 @@
+((DOG . WOOF) (CAT . MEOW))
